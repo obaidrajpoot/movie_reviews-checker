@@ -1,4 +1,4 @@
-# movie_reviews-checker
+# movie reviews checker
 ### STEPS:
 MOVIE REVIEW.ipynb # Here full machine learning project you can run it on jupyter ,pycharm , google collab ,VScode etc
 
